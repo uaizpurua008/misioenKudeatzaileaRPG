@@ -16,7 +16,7 @@ let misioak = [];
 formularioa.addEventListener("submit", (gertaera) => {
   gertaera.preventDefault(); // Formularioak orria berriro kargatzea saihesten du.
   gehituMisioa();
-});
+});//hil
 
 ezabatuBotoia.addEventListener("click", ezabatuDena);
 
